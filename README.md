@@ -4,7 +4,8 @@
 
 Banks spend heavily on marketing campaigns to promote term deposits, but not every customer subscribes. Targeting the wrong customers wastes resources and lowers campaign efficiency.
 
-> This project aims to **predict which customers are most likely to subscribe**, enabling smarter marketing and cost savings.
+
+This project aims to **predict which customers are most likely to subscribe**, enabling smarter marketing and cost savings.
 
 
 ## **Objective**
